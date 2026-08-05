@@ -1,0 +1,10 @@
+# mengebaikan folder yang tidak perlu di push ke repository
+proect_kasir
+
+#mengebaikan file yang tidak perlu di push ke repository
+logger.txt
+
+function.ts
+
+#mengebaikan sama file dengan oktensi tertentu
+*.py
