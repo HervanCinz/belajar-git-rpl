@@ -3,8 +3,7 @@ proect_kasir
 
 #mengebaikan file yang tidak perlu di push ke repository
 logger.txt
-
-function.ts
+.gitignore
 
 #mengebaikan sama file dengan oktensi tertentu
 *.py
